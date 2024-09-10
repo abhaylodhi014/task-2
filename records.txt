@@ -1,0 +1,46 @@
+userid :- 240001003
+Name :- abhaylodhi
+maid id :- cse240001003@iiti.ac.in
+Department :- cse
+password :- 1003
+
+userid :- 240001004
+Name :- abhinavpatel
+maid id :- cse240001004@iiti.ac.in
+Department :- cse
+password :- 1004
+
+userid :- 240001006
+Name :- abhishekraj
+maid id :- cse240001006@iiti.ac
+Department :- cse
+password :- 1006
+
+userid :- ph107
+name :- bivas
+subject :- physic
+password :- 107
+
+abhay.cse.1
+samester 1 marks :-
+ph107 :- 9
+ee101 :- 8
+cs103 :- 7
+ph157 :- 9
+spi :- 8.25
+userid :- 240001003
+
+userid :- cs103
+name :- abhishek
+subject :- programing
+password :- 103
+
+abhinav.cse.1
+samester 4 marks :-
+ph107 :- 9
+ee101 :- 8
+cs103 :- 9
+ph157 :- 9
+spi :- 8.75
+userid :- 240001004
+
